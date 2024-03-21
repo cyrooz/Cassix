@@ -87,7 +87,7 @@ Xandra supports [Scylla][scylladb] (version `2.x` to `5.x`) without the need to 
 
 ## License
 
-Xandra is released under the ISC license, see the [LICENSE](LICENSE) file.
+Cassix is released under the ISC license, see the [LICENSE](LICENSE) file.
 
 [documentation]: https://hexdocs.pm/xandra
 [cassandra]: http://cassandra.apache.org
